@@ -7,5 +7,5 @@ This repository is a collection of my solutions for the monthly Storytelling wit
 
 ###### Challenge Index
 
-* [June 2026: Normal as Noteworthy](./2026-06-normal-noteworthy) - Using a bubble chart to highlight stability in European markets.
-
+June 2026 : Normal vs Noteworthy | Using a bubble chart to highlight stability in European Market
+Soluiton Link: https://community.storytellingwithdata.com/challenges/jun-2026-when-normal-is-noteworthy/marketing-media-spend-vs-revenue
