@@ -14,9 +14,9 @@
 * Does the bottom-left quadrant clearly communicate "healthy stability," or should a shaded background panel be added to label it as an "Efficiency Zone"?
 * Is the large USA bubble too visually distracting despite being a separate growth market outlier?
 
-## 🖼️ Visuals
-### My Solution
-![My Bubble Chart Solution](./solution.png)
+### 🖼️ Visuals
+##### My Solution
+[![My Bubble Chart Solution](./solution.png)](https://community.storytellingwithdata.com/challenges/jun-2026-when-normal-is-noteworthy/marketing-media-spend-vs-revenue)
 
-### Challenge Reference Slide
-![Challenge Prompt Example](./reference.png)
+##### Challenge Reference Slide
+[![Challenge Prompt Example](./reference.png)](https://community.storytellingwithdata.com/challenges/jun-2026-when-normal-is-noteworthy)
